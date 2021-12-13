@@ -1,0 +1,47 @@
+.family{
+height: 60%;
+width: 60%;
+float:right;
+position:relative;
+top: 70px;
+}
+.mission{
+    height: 40%;
+    width : 40%;
+    float:right;
+}
+.main{
+background-color:rgb(209, 198, 252);
+}
+.sub{
+    font-family:'Courier New', Courier, monospace;
+    color:rgb(44, 44, 92);
+    font-weight: bold;
+}
+.sing{
+    font-family: fantasy;
+    font-size: 75%;
+}
+.store{
+    font-size:75% ;
+    font-family: fantasy;
+    
+}
+.top{
+    font-family:inherit;
+    color:rgb(20, 54, 82);
+    font-style: oblique;
+    
+}
+.about{
+    color: ivory;
+    font-family: open-sans;
+}
+.heading{
+    font-family: open-sans;
+}
+.carp{
+    float: right;
+    height:40%;
+    width:70%;
+}
